@@ -1,6 +1,6 @@
-### I’m Abdul Kaiyum Fahim
+## I’m Abdul Kaiyum Fahim
 
-##### Hi, I'm Fahim, a passionate self-taught Fullstack 🧑‍💻️ web developer and a freelance software engineer from 🇧🇩 Dhaka, Bangladesh. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
+#### Hi, I'm Fahim, a passionate self-taught Fullstack 🧑‍💻️ web developer and a freelance software engineer from 🇧🇩 Dhaka, Bangladesh. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
 - 📫 How to reach me **abdulkaiyum.fahim@gmail.com**
 
