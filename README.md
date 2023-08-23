@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi there 👋, I’m Abdul Kaiyum Fahim
 #### I’m a passionate Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh
-![I’m a passionate Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh]  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 Hi, I'm Fahim, a passionate self-taught full-stack web developer and a freelance software engineer from Bangladesh. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
