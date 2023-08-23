@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there 👋, I’m Abdul Kaiyum Fahim
+### Hi there 👋, I’m Abdul Kaiyum Fahim
 #### I’m a passionate Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
