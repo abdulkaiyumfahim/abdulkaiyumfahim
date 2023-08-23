@@ -1,7 +1,8 @@
-<h1 align="center">Hi there 👋, I’m Abdul Kaiyum Fahim</h1>
-<h3 align="center">I’m a passionate Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh</h3>
+### Hi there 👋, Hi there 👋, I’m Abdul Kaiyum Fahim
+#### I’m a passionate Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh
+![I’m a passionate Fullstack 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkaiyumfahim&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkaiyumfahim" /> </p>
+Hi, I'm Fahim, a passionate self-taught full-stack web developer and a freelance software engineer from Bangladesh. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
 - 📫 How to reach me **abdulkaiyum.fahim@gmail.com**
 
