@@ -10,8 +10,9 @@
 <div align="center">
   <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulkaiyumfahim&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="abdulkaiyumfahim" /></p>
 </div>
-<h3 align="center">Connect with me:</h3>
+
 <div align="center">
+  <h3 align="center">Connect with me:</h3>
   <p align="center">
 <a href="https://linkedin.com/in/abdulkaiyum-fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulkaiyum-fahim" height="30" width="40" /></a>
 <a href="https://fb.com/abdulkaiyum.fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulkaiyum.fahim" height="30" width="40" /></a>
