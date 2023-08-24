@@ -11,6 +11,8 @@
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdulkaiyumfahim&show_icons=true&theme=tokyonight&locale=en" alt="abdulkaiyumfahim" /></p>
 <p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulkaiyumfahim&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="abdulkaiyumfahim" /></p>
 
+<br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/abdulkaiyum-fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulkaiyum-fahim" height="30" width="40" /></a>
