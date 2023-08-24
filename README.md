@@ -10,7 +10,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulkaiyumfahim&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="abdulkaiyumfahim" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaiyumfahim&theme=highcontrast" alt="abdulkaiyumfahim" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaiyumfahim&theme=highcontrast" alt="abdulkaiyumfahim" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
