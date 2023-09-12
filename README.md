@@ -15,5 +15,5 @@
 <a href="https://fb.com/abdulkaiyum.fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulkaiyum.fahim" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul_kaiyum_fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_kaiyum_fahim" height="30" width="40" /></a>
 </p>
-<img src="https://github.com/abdulkaiyumfahim/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/abdulkaiyumfahim/snake.svg" alt="Snake animation" />
 
